@@ -1,0 +1,57 @@
+.navLogo{
+    width: 100px;
+    margin-left: 3px;
+}
+.navTitle{
+    text-decoration: none !important;
+    font-family: "Montserrat",sans-serif;
+    color: #ffffff !important;
+    font-weight: 700;
+    font-size: 24px;
+}
+.navTitleScroll{
+    text-decoration: none !important;
+    font-family: "Montserrat",sans-serif;
+    color: #4C9DED !important;
+    font-weight: 700;
+    font-size: 24px;
+}
+.navBackground{
+    -webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+.navBackgroundScroll{
+    -webkit-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+    background-color:#ffffff !important;
+    box-shadow: 0 0 6px 0 rgba(2, 104, 206, 0.3);
+}
+.navBarItem{
+    text-decoration: none !important;
+    font-family: "Montserrat",sans-serif;
+    font-weight: 500;
+    margin: 5px;
+    padding: 10px;
+    padding: 10px;
+    font-size: 16px;
+    color: #ffffff !important;
+}
+.navBarItemScroll{
+    text-decoration: none !important;
+    font-family: "Montserrat",sans-serif;
+    font-weight: 500;
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+    color: #011c28 !important;
+}
+.navLinkP{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px
+}

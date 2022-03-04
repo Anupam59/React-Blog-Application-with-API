@@ -1,0 +1,28 @@
+.blogTitle{
+    font-family: "Montserrat",sans-serif;
+    font-weight: 500;
+    color: #1c1c36;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size:20px;
+}
+.blogDes{
+    color: #444444;
+    font-family: "Raleway",sans-serif;
+    font-weight: 500;
+    font-size:14px;
+    margin-top: 10px;
+}
+.blogAuthor{
+    color: #830101;
+    font-family: "Raleway",sans-serif;
+    font-weight: 400;
+    font-size:14px;
+    margin: 0;
+}
+.blogImage{
+    height: 300px;
+}
+.blogImageBox{
+    height: 210px;
+}

@@ -1,0 +1,17 @@
+a{
+    text-decoration: none !important;
+}
+
+.cellImage{
+    width: 100px;
+    height: 100px;
+}
+.navBtnShow{
+    display:block;
+}
+.navBtn{
+    display: none;
+}
+.LoginNext{
+    color: #ffffff !important;
+}

@@ -1,0 +1,23 @@
+.topPageBanner{
+    background-image: url("../image/banner1.jpg");
+    min-height: 250px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.topPageBannerOverlay{
+    position: absolute;
+    min-height: 250px;
+    width: 100%;
+    background: rgba(45, 45, 45, 0.82);
+}
+.topPageBannerContent{
+    margin-top: 8rem;
+}
+.topPageBannerTitle{
+    font-family: "Montserrat",sans-serif;
+    font-weight: 700;
+    color: #ffffff;
+    font-size:30px;
+}
